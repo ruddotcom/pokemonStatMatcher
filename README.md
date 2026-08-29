@@ -63,7 +63,6 @@ Single self-contained HTML file. No frameworks, no dependencies, no build step. 
 The NBA × Pokémon stat mapping project involved:
 
 - Designing a six-stat formula translating real basketball metrics (per-36 rates, usage percentage, true shooting, defensive rebounding, physical profile) into Pokémon-style base stats
-- Fitting and validating the model against a ground-truth dataset of player spreads published by NBA Pokedex (Instagram / TikTok)
 - Running the model across all 30 NBA teams — 180 players — for the 2025–26 regular season
 - Using this matcher to assign each player their closest Pokémon as a signature identifier
 
